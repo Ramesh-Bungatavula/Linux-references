@@ -60,128 +60,127 @@ Use **WSL2 + Ubuntu**, then install Linux versions.
 
 # 📁 File Navigation & Management
 
-  Tool     Description
-  -------- ------------------------------
-  ranger   Vim-inspired file manager
-  yazi     Fast Rust-based file manager
-  nnn      Lightweight file browser
-  lf       Minimal file manager
-  zoxide   Smart `cd` replacement
-  broot    Interactive tree navigation
-  xplr     Hackable file explorer
+| Tool   | Description                         |
+|--------|-------------------------------------|
+| ranger | Vim-inspired file manager           |
+| yazi   | Fast Rust-based file manager        |
+| nnn    | Lightweight file browser            |
+| lf     | Minimal file manager                |
+| zoxide | Smart `cd` replacement              |
+| broot  | Interactive tree navigation         |
+| xplr   | Hackable file explorer              |
 
 ------------------------------------------------------------------------
 
 # 🔎 Search & Text Processing
 
-  Tool           Replaces
-  -------------- ------------------
-  ripgrep (rg)   grep
-  fd             find
-  fzf            manual filtering
-  sd             sed
-  jq             JSON parsing
-  delta          git diff
-  batgrep        grep + cat
+| Tool           | Replaces          |
+|----------------|-------------------|
+| ripgrep (rg)   | grep              |
+| fd             | find              |
+| fzf            | manual filtering  |
+| sd             | sed               |
+| jq             | JSON parsing      |
+| delta          | git diff          |
+| batgrep        | grep + cat        |
 
 ------------------------------------------------------------------------
 
 # 📄 File Viewing & Listing
 
-  Tool    Replaces
-  ------- ------------------
-  bat     cat
-  eza     ls
-  glow    Markdown preview
-  hexyl   hexdump
-  tldr    man
-  cheat   man pages
+| Tool  | Replaces         |
+|-------|------------------|
+| bat   | cat              |
+| eza   | ls               |
+| glow  | Markdown preview |
+| hexyl | hexdump          |
+| tldr  | man              |
+| cheat | man pages        |
 
 ------------------------------------------------------------------------
 
 # 🌿 Git & Developer Tools
 
-  Tool         Purpose
-  ------------ --------------------
-  lazygit      Git dashboard
-  tig          Git log viewer
-  gh           GitHub CLI
-  gitui        Rust Git TUI
-  commitizen   Structured commits
+| Tool        | Purpose             |
+|-------------|---------------------|
+| lazygit     | Git dashboard       |
+| tig         | Git log viewer      |
+| gh          | GitHub CLI          |
+| gitui       | Rust Git TUI        |
+| commitizen  | Structured commits  |
 
 ------------------------------------------------------------------------
 
 # 📊 System Monitoring
 
-  Tool           Replaces
-  -------------- ----------
-  glances        top
-  htop           top
-  btop           htop
-  bottom (btm)   top
-  procs          ps
-  duf            df
+| Tool          | Replaces |
+|---------------|----------|
+| glances       | top      |
+| htop          | top      |
+| btop          | htop     |
+| bottom (btm)  | top      |
+| procs         | ps       |
+| duf           | df       |
 
 ------------------------------------------------------------------------
 
 # 💾 Disk & Storage
 
-  Tool   Replaces
-  ------ ----------
-  ncdu   du
-  dust   du
-  dua    du
-  gdu    du
+| Tool | Replaces |
+|------|----------|
+| ncdu | du       |
+| dust | du       |
+| dua  | du       |
+| gdu  | du       |
 
 ------------------------------------------------------------------------
 
 # 🌐 Networking
 
-  Tool     Replaces
-  -------- ------------------
-  httpie   curl
-  dog      dig
-  mtr      traceroute
-  nmap     network scanning
-  xh       curl
+| Tool   | Replaces          |
+|--------|-------------------|
+| httpie | curl              |
+| dog    | dig               |
+| mtr    | traceroute        |
+| nmap   | network scanning  |
+| xh     | curl              |
 
 ------------------------------------------------------------------------
 
 # 🐳 DevOps & Containers
 
-  Tool         Replaces
-  ------------ ----------------
-  lazydocker   docker CLI
-  k9s          kubectl
-  stern        kubectl logs
-  dive         docker inspect
-  ctop         docker stats
+| Tool        | Replaces         |
+|-------------|------------------|
+| lazydocker  | docker CLI       |
+| k9s         | kubectl          |
+| stern       | kubectl logs     |
+| dive        | docker inspect   |
+| ctop        | docker stats     |
 
 ------------------------------------------------------------------------
 
 # 🧠 Shell Enhancements
 
-  Tool       Purpose
-  ---------- -----------------------
-  starship   Modern prompt
-  atuin      Smart history
-  direnv     Auto .env loading
-  thefuck    Fix wrong commands
-  asdf       Multi-version manager
-  fnm        Fast Node manager
+| Tool     | Purpose               |
+|----------|-----------------------|
+| starship | Modern prompt         |
+| atuin    | Smart history         |
+| direnv   | Auto `.env` loading   |
+| thefuck  | Fix wrong commands    |
+| asdf     | Multi-version manager |
+| fnm      | Fast Node manager     |
 
 ------------------------------------------------------------------------
 
 # 🕶 Fun Tools
 
-  Tool        Purpose
-  ----------- ------------------
-  cmatrix     Matrix animation
-  neofetch    System info
-  hollywood   Hacker mode
-  cowsay      ASCII fun
-  lolcat      Rainbow output
-
+| Tool      | Purpose           |
+|-----------|-------------------|
+| cmatrix   | Matrix animation  |
+| neofetch  | System info       |
+| hollywood | Hacker mode       |
+| cowsay    | ASCII fun         |
+| lolcat    | Rainbow output    |
 ------------------------------------------------------------------------
 
 
