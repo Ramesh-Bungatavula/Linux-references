@@ -31,7 +31,11 @@ brew install eza bat ripgrep fd fzf zoxide starship btop glances duf ncdu dust l
 
 # LINUX
 
-Use **WSL2 + Ubuntu**, then install Linux versions.
+Use **sudo apt install <package>**, for Debian/Ubuntu
+
+Use **sudo apt install <package>**, for Fedora
+
+Use **sudo yum install <package>**, for Redhat
 
 ------------------------------------------------------------------------
 
