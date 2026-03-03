@@ -6,15 +6,14 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 
 ------------------------------------------------------------------------
+## 📚 Table of Contents
 
-# 📚 Table of Contents
-
--   [ðŸ“ Directory & Navigation](#-directory--navigation)
--   [ðŸ”Ž Finding Files & Directories](#-finding-files--directories)
--   [ðŸ“„ File Content Processing](#-file-content-processing)
--   [ðŸ“¦ Copying & Synchronizing](#-copying--synchronizing)
--   [ðŸš€ Productivity Commands](#-productivity-commands)
--   [ðŸ”¥ Command Chaining](#-command-chaining)
+- 📁 [Directory & Navigation](#-directory--navigation)
+- 🔎 [Finding Files & Directories](#-finding-files--directories)
+- 📄 [File Content Processing](#-file-content-processing)
+- 📦 [Copying & Synchronizing Files](#-copying--synchronizing-files)
+- 🚀 [Other Day-to-Day Useful Commands](#-other-day-to-day-useful-commands)
+- 🔥 [Command Chaining](#-command-chaining)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +56,7 @@
 
 ------------------------------------------------------------------------
 
-### ðŸ’¡ About `xargs`
+### About `xargs`
 
 Converts standard input into arguments for another command.
 
@@ -77,7 +76,7 @@ find . -name "*.txt" | xargs cat
 
 ------------------------------------------------------------------------
 
-### ðŸ’¡ About `rsync`
+### About `rsync`
 
 Efficiently copies and syncs files by transferring only changed data.
 
@@ -122,6 +121,6 @@ mkdir project && cd project
 
 ------------------------------------------------------------------------
 
-# ðŸ“œ License
+# License
 
 MIT License
