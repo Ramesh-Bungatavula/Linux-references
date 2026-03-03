@@ -1,4 +1,4 @@
-# 🚀 Linux Commands for file search & for more productivity 
+# 🚀 Linux Commands for file search & for better productivity 
 
 ![Linux](https://img.shields.io/badge/Platform-Linux-blue?logo=linux)
 ![Shell](https://img.shields.io/badge/Shell-Bash-green)
