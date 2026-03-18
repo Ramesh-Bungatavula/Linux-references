@@ -7,6 +7,8 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
+# Try these only after becoming comfortable with basic commands as these are more of playful modern commands 
+
 
 Modern tools replacing classic Unix utilities with:  
 ⚡ Faster performance (Rust / Go binaries) 
